@@ -13,7 +13,7 @@ Un bot automatizat pentru TikTok cu interfață grafică modernă, creat pentru 
 
 1. **Clonează repository-ul**
 ```bash
-git clone https://github.com/your-username/tiktok-bot.git
+git clone https://github.com/arian222/tiktok-bot.git
 cd tiktok-bot
 ```
 
@@ -99,8 +99,8 @@ python tiktok_bot_gui.py
 
 Pentru suport sau întrebări:
 - Creator: ALECS
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
+- GitHub: [](https://github.com/arian222)]
+- Email: [alexandruparaschiv27@yahoo.com]
 
 ## ⚖️ Licență
 
