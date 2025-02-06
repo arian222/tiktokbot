@@ -117,5 +117,5 @@ Contribuțiile sunt binevenite! Te rog să:
 
 ## 🙏 Mulțumiri
 
-- Mulțumiri speciale comunității pentru suport și feedback
-- Toate librăriile open source folosite în acest proiect
+- Mulțumiri speciale comunității pentru suport și feedback  https://wa.me/40732159658?text=Salut!%20Cum%20te%20pot%20ajuta?  
+- Toate librăriile open source folosite în acest proiect       Salut! Poți să-mi trimiți bani pe Revolut cu acest link: revolut.me/alecss12 
